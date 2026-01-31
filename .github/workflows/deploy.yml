@@ -10,7 +10,7 @@ on:
   # 2. CRITICAL: Trigger the deployment job ONLY when code is pushed (merged) to the master branch
   push:
     branches:
-      - master
+      - main
   
   # Allows manual runs
   workflow_dispatch: 
