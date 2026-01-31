@@ -5,7 +5,7 @@ on:
   pull_request:
     branches:
       # NOTE: Ensure this matches your primary branch name (master or main)
-      - master 
+      - main 
   
   # 2. CRITICAL: Trigger the deployment job ONLY when code is pushed (merged) to the master branch
   push:
