@@ -1,19 +1,35 @@
 [
-    { "name": "HTML/CSS",        "category": "frontend" },
-    { "name": "JavaScript",      "category": "frontend" },
-    { "name": "TypeScript",      "category": "frontend" },
-    { "name": "Angular",         "category": "frontend" },
-    { "name": "React",           "category": "frontend" },
-    { "name": "Tailwind CSS",    "category": "frontend" },
+    { "name": "Python",       "category": "Core Languages" },
+    { "name": "Java",         "category": "Core Languages" },
+    { "name": "SQL",          "category": "Core Languages" },
+    { "name": "PySpark",      "category": "Core Languages" },
   
-    { "name": "Node.js",         "category": "backend" },
-    { "name": "Express",         "category": "backend" },
-    { "name": "NestJS",          "category": "backend" },
-    { "name": "PostgreSQL",      "category": "backend" },
-    { "name": "MongoDB",         "category": "backend" },
-  
-    { "name": "Docker",          "category": "devops" },
-    { "name": "Kubernetes",      "category": "devops" },
-    { "name": "AWS",             "category": "devops" },
-    { "name": "GitHub Actions",  "category": "devops" }
-  ]
+    { "name": "Apache Spark",      "category": "Big Data Processing" },
+    { "name": "Apache Kafka",      "category": "Big Data Processing" },
+    { "name": "Databricks",        "category": "Big Data Processing" },
+
+    { "name": "Airflow",      "category": "Orchestration" },
+    { "name": "Dagster",      "category": "Orchestration" },
+    { "name": "Fivetran",     "category": "Orchestration" },
+
+    { "name": "Snowflake",         "category": "Databases & Warehouses" },
+    { "name": "Amazon Redshift",   "category": "Databases & Warehouses" },
+    { "name": "PostgreSQL",        "category": "Databases & Warehouses" },
+    { "name": "MySQL",             "category": "Databases & Warehouses" },
+    { "name": "Oracle",            "category": "Databases & Warehouses" },
+    { "name": "MangoDB",           "category": "Databases & Warehouses" },
+
+    { "name": "Microsoft Azure (Data Factory, ADLS, Synapse)",         "category": "Cloud Platforms" },
+    { "name": "AWS (S3, Glue, Redshift, Lambda)",         "category": "Cloud Platforms" },
+    { "name": "Microsoft Fabric",          "category": "Cloud Platforms" },
+    { "name": "Google Cloud Platform (BigQuery)",      "category": "Cloud Platforms" },
+
+    { "name": "Tableau",          "category": "Business Intelligence" },
+    { "name": "PowerBI",      "category": "Business Intelligence" },
+    { "name": "Looker",      "category": "Business Intelligence" },
+
+    { "name": "GitHub",          "category": "DevOps & Collaboration" },
+    { "name": "Azure DevOps (CI/CD)",      "category": "DevOps & Collaboration" },
+    { "name": "Agile/Scrum",      "category": "DevOps & Collaboration" }
+
+]

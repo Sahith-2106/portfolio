@@ -1,14 +1,16 @@
 {
     "education": [
-      { "degree": "Bachelors Computer Engineering", "school": "Mumbai University", "year": "2017– 2021", "location": "Mumbai, IN" },
-      { "degree": "Master in Computer Science", "school": "Paderborn University", "year": "2021 – 2024", "location": "Paderborn, DE" }
+      { "degree": "Master of Science in Web and Data Science", "school": "University of Koblenz", "year": "2022 – 2026", "location": "Koblenz, DE" },
+      { "degree": "Bachelor of Technology in Computer Science and Engineering", "school": "Rajeev Gandhi Memorial College of Engineering", "year": "2016– 2020", "location": "Nandyal, IN" }
     ],
     "certificates": [
-      { "name": "Introduction to Python", "issuer": "Microsoft", "year": "2017" }
+      { "name": "Microsoft Certified Fabric Data Engineer Associate", "issuer": "Microsoft", "year": "2025" },
+      { "name": "Data Engineer Associate", "issuer": "DataCamp", "year": "2025" },
+      { "name": "Creating Dashboards and Storytelling with Tableau ", "issuer": "Coursera", "year": "2023" }
     ],
     "languages": [
       { "name": "English", "level": "Fluent(C1)" },
-      { "name": "Hindi", "level": "Native" },
-      {"name": "Deutsch", "level": "Intermediate(B1)" }
+      {"name": "Deutsch", "level": "Intermediate(B1)" },
+      { "name": "Telugu", "level": "Native" }
     ]
   }

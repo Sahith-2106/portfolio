@@ -45,9 +45,13 @@ export class SkillsComponent implements OnInit {
   // Filter keys for generating the buttons
   readonly filters = [
     { key: 'all' as FilterKey, label: 'All Skills' },
-    { key: 'frontend' as FilterKey, label: 'Frontend' },
-    { key: 'backend' as FilterKey, label: 'Backend' },
-    { key: 'devops' as FilterKey, label: 'DevOps / Cloud' },
+    { key: 'Core Languages' as FilterKey, label: 'Core Languages' },
+    { key: 'Big Data Processing' as FilterKey, label: 'Big Data Processing' },
+    { key: 'Orchestration' as FilterKey, label: 'Orchestration' },
+    { key: 'Databases & Warehouses' as FilterKey, label: 'Databases & Warehouses' },
+    { key: 'Cloud Platforms' as FilterKey, label: 'Cloud Platforms' },
+    { key: 'Business Intelligence' as FilterKey, label: 'Business Intelligence' },
+    { key: 'DevOps & Collaboration' as FilterKey, label: 'DevOps & Collaboration' },
   ];
 
   ngOnInit(): void {
