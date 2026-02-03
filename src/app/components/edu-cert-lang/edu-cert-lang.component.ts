@@ -1,12 +1,13 @@
 import { Component, inject } from '@angular/core';
 import { EduCertLangService } from '../../services/edu-cert-lang.service';
+import { NgIf } from '@angular/common';
 
 
 
 @Component({
   selector: 'app-edu-cert-lang',
   standalone: true,
-  imports: [],
+  imports: [NgIf],
   templateUrl: './edu-cert-lang.component.html',
   styleUrl: './edu-cert-lang.component.scss'
 })
