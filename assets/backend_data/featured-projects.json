@@ -1,24 +1,24 @@
 [
  
     {
-      "name": "Digital Factory Planning",
-      "description": "A Factory planning tool built with a teammante for Fraunhofer IEM internal Use",
-      "tech": ["React", "NestJS", "MySql", "Redis"],
-      "image": "assets/images/digital_factory.png",
-      "github": "https://github.com/prathmesh3235/digitalfactorytoolMT"
+      "name": "Azure End To End Data Pipeline",
+      "description": "Developed an end-to-end Azure data pipeline using Azure Data Factory, Databricks (PySpark), and Synapse Analytics following the Medallion architecture.",
+      "tech": ["PySpark", "dataflowGen2", "Data Factory", "ADLS Gen2", "Synapse"],
+      "image": "assets/images/Azure.png",
+      "github": "https://github.com/Sahith-2106/Azure-End-To-End-Data-Pipeline.git"
     },
     {
-      "name": "Doctors Prescription",
-      "description": "A tool where doctor can prescribe medice and by clicking the photo the prescribed medicine gets added to the patients system.",
-      "tech": ["Flask", "Angular", "Firebase", "OpenCv"],
-      "image": "assets/images/doctors_prescription.png",
-      "github": "https://github.com/Sahilnair71/angular-doctors-prescription"
+      "name": "Real-Time Stock Market Data Pipeline using Kafka & AWS",
+      "description": "Built a real-time streaming data pipeline using Apache Kafka on AWS EC2, with Python producers and consumers processing stock market data.",
+      "tech": ["Kafka", "AWS", "Python"],
+      "image": "assets/images/Kafka.png",
+      "github": "https://github.com/Sahith-2106/Kafka-Project-Stock-Market-Data.git"
     },
     {
-        "name": "Ecommerce Website",
-        "description": "A fullstack ecommerce application for a local automotive dealer.",
-        "tech": [ "Angular", "Firebase", "NodeJs"],
-        "image": "assets/images/green_tiger.png",
-        "github": "https://github.com/Sahilnair71/greetiger"
+        "name": "COVID-19 Data Analysis Dashboard",
+        "description": "Built an interactive COVID-19 analysis dashboard using Azure Data Studio (SQL) for data transformation and Tableau for visualization, with preprocessing in Excel.",
+        "tech": [ "Tableau", "SQL", "Python"],
+        "image": "assets/images/Dashboard.png",
+        "github": "https://github.com/Sahith-2106/Tableau-Visualization.git"
       }
   ]
