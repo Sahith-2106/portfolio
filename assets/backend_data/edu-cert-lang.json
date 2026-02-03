@@ -1,28 +1,7 @@
 {
     "education": [
-      { "degree": "Master of Science in Web and Data Science", 
-        "school": "University of Koblenz", 
-        "year": "2022 – 2026", 
-        "location": "Koblenz, DE", 
-        "Thesis": "TEI Conversion Pipeline for Historical Vocational Documents", 
-        "ThesisDescription": [
-                              "My thesis project presents a custom pipeline for converting scanned historical vocational training documents specifically from the German Democratic Republic (GDR) into semantically rich TEI XML representations.",
-                              "The pipeline integrates OCR, layout detection, and semantic tagging, tailored for a unique corpus of structured job descriptions preserved by the Bundesinstitut für Berufsbildung (BIBB).",
-                              "The pipeline achieved high accuracy in extracting and preserving hierarchical document structures such as headings and numbered sections.",
-                              "Minor inaccuracies in lists and graphics were mainly caused by noisy OCR regions. Overall, the results validate the effectiveness of the proposed approach for generating semantically rich TEI XML from historical vocational documents."
-                              ] },
-
-      { "degree": "Bachelor of Technology in Computer Science and Engineering", 
-        "school": "Rajeev Gandhi Memorial College of Engineering", 
-        "year": "2016– 2020", 
-        "location": "Nandyal, IN",
-        "Thesis": "Online College Fee Payment System", 
-        "ThesisDescription": [
-                              "Developed a secure web-based system enabling students to pay college fees online and track payment status.",
-                              "Implemented student authentication and integrated a payment gateway for safe and direct transactions.",
-                              "Built the application using HTML, CSS, PHP, and MySQL for dynamic data handling."
-                             ]
-          }
+      { "degree": "Master of Science in Web and Data Science", "school": "University of Koblenz", "year": "2022 – 2026", "location": "Koblenz, DE" },
+      { "degree": "Bachelor of Technology in Computer Science and Engineering", "school": "Rajeev Gandhi Memorial College of Engineering", "year": "2016– 2020", "location": "Nandyal, IN" }
     ],
     "certificates": [
       { "name": "Microsoft Certified Fabric Data Engineer Associate", "issuer": "Microsoft", "year": "2025" },
