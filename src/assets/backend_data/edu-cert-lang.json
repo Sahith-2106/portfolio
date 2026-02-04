@@ -25,9 +25,9 @@
           }
     ],
     "certificates": [
-      { "name": "Microsoft Certified Fabric Data Engineer Associate", "issuer": "Microsoft", "year": "2025" },
-      { "name": "Data Engineer Associate", "issuer": "DataCamp", "year": "2025" },
-      { "name": "Creating Dashboards and Storytelling with Tableau ", "issuer": "Coursera", "year": "2023" }
+      { "name": "Microsoft Certified Fabric Data Engineer Associate", "issuer": "Microsoft", "year": "2025", "url": "https://learn.microsoft.com/en-us/users/saivenkatasahithreddykadapaiahgari-6443/credentials/8eceff05eb864aac?ref=https%3A%2F%2Fwww.overleaf.com%2F"  },
+      { "name": "Data Engineer Associate", "issuer": "DataCamp", "year": "2025", "url": "https://www.datacamp.com/certificate/DEA0010967915396" },
+      { "name": "Creating Dashboards and Storytelling with Tableau ", "issuer": "Coursera", "year": "2023", "url": "https://www.coursera.org/account/accomplishments/certificate/PTHM9TBT94HU" }
     ],
     "languages": [
       { "name": "English", "level": "Fluent(C1)" },

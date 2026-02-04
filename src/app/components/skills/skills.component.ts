@@ -5,7 +5,7 @@ import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { CommonModule,isPlatformBrowser } from '@angular/common'; 
 
 // Define the types
-type SkillCategory = 'frontend' | 'backend' | 'devops';
+type SkillCategory = 'Core Languages' | 'Big Data Processing' | 'Orchestration' | 'Databases & Warehouses' | 'Cloud Platforms' | 'Business Intelligence' ;
 interface Skill { 
     category: SkillCategory; 
     name: string; 
@@ -78,8 +78,12 @@ export class SkillsComponent implements OnInit {
   
   // Helper function for the skill card badge
   labelFor(cat: SkillCategory): string {
-    if (cat === 'frontend') return 'Frontend';
-    if (cat === 'backend') return 'Backend';
-    return 'DevOps / Cloud';
+    if (cat === 'Core Languages') return 'Core Languages';
+    if (cat === 'Big Data Processing') return 'Big Data Processing';
+    if (cat === 'Orchestration') return 'Orchestration';
+    if (cat === 'Databases & Warehouses') return 'Databases & Warehouses';
+    if (cat === 'Cloud Platforms') return 'Cloud Platforms';
+    if (cat === 'Business Intelligence') return 'Business Intelligence';
+    return 'DevOps & Collaboration';
   }
 }

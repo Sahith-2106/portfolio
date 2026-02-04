@@ -3,7 +3,6 @@ import { EduCertLangService } from '../../services/edu-cert-lang.service';
 import { NgIf } from '@angular/common';
 
 
-
 @Component({
   selector: 'app-edu-cert-lang',
   standalone: true,

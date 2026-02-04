@@ -5,7 +5,7 @@ import { signal } from '@angular/core';
 
 
 type Education = { degree: string; school: string; year: string; location: string; Thesis: string; ThesisDescription: string[] };
-type Certificate = { name: string; issuer: string; year: string };
+type Certificate = { name: string; issuer: string; year: string; url: string };
 type Language = { name: string; level: string };
 
 type Payload = {
