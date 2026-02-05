@@ -13,7 +13,7 @@ import {  isPlatformBrowser, ViewportScroller } from '@angular/common';
 export class AboutCardComponent implements OnInit, OnDestroy {
   name = 'Sai Venkata Sahith Reddy';
   titlePrefix = 'I am a';
-  roles = ['Data Engineer', 'Data Analyst', 'BI Engineer'];
+  roles = ['Data Engineer', 'Analytics Engineer', 'Data Analyst'];
   private scroller = inject(ViewportScroller);
  
 
