@@ -1,0 +1,33 @@
+[
+    {
+      "position": "Working student Data & Analytics Engineer ",
+      "company": "Qualifyze Gmbh",
+      "time": "September 2023 - June 2025",
+      "location": "Frankfurt, Germany",
+      "description": "Working as Data & Analytics Engineer",
+      "responsibilities": [
+        "Built and optimized ELT pipelines using dbt to transform data directly in Amazon Redshift, integrating multi-source data and accelerating analytics delivery by 15%.",
+        "Enhanced data quality and performance by redesigning schemas and optimizing SQL, resulting in 35% faster queries and more reliable insights.",
+        "Partnered with analysts and business stakeholders to define KPI logic and deliver reusable curated marts, reducing ad-hoc data preparation by an estimated 10 hours per week",
+        "Designed analytics-ready data models and optimized SQL, improving query performance by 35% and increasing consistency of business KPIs across teams",
+        "Curated and delivered production-ready feature datasets for machine learning models (TensorFlow, Scikit-learn), reducing data preparation time for data scientists by an estimated 10 hours per week",
+        "Developed interactive dashboards in Looker and Tableau that cut reporting time by 30% and improved executive decision-making speed by 20%.",
+        "Enhanced team collaboration through GitHub version control and Agile methodologies, improving project execution by 10%."
+      ]
+    },
+    {
+      "position": "Data & Analytics Engineer",
+      "company": " Tata Consultancy Services",
+      "time": "September 2020 - July 2022",
+      "location": "Hyderabad, India",
+      "description": "Full Time",
+      "responsibilities": [
+      "As a TCS consultant at Ericsson, engineered and maintained their Azure data platform handling global telecommunications data.",
+      "Engineered enterprise-scale data pipelines processing 1TB+ of daily telemetry data using Azure Data Factory and Databricks, reducing end-to-end latency by 20%.",
+      "Automated deployment workflows with Azure DevOps CI/CD, eliminating 40+ hours of manual effort per month and accelerating release cycles.",
+      "Designed scalable data warehouse models (star/snowflake schemas), which boosted BI dashboard performance and reduced refresh times.",
+      "Established data quality frameworks and monitoring alerts for critical Ericsson data pipelines, reducing data incidents by 25% and ensuring reliable data for business-critical decisions.",
+      "Partnered with cross-functional teams to deliver regulatory and financial reporting solutions, directly supporting 200+ business users across departments."
+      ]
+    }
+]
