@@ -1,0 +1,37 @@
+{
+    "education": [
+      { "degree": "Master of Science in Web and Data Science", 
+        "school": "University of Koblenz", 
+        "year": "2022 – 2026", 
+        "location": "Koblenz, DE", 
+        "Thesis": "TEI Conversion Pipeline for Historical Vocational Documents", 
+        "ThesisDescription": [
+                              "My thesis project presents a custom pipeline for converting scanned historical vocational training documents specifically from the German Democratic Republic (GDR) into semantically rich TEI XML representations.",
+                              "The pipeline integrates OCR, layout detection, and semantic tagging, tailored for a unique corpus of structured job descriptions preserved by the Bundesinstitut für Berufsbildung (BIBB).",
+                              "The pipeline achieved high accuracy in extracting and preserving hierarchical document structures such as headings and numbered sections.",
+                              "Minor inaccuracies in lists and graphics were mainly caused by noisy OCR regions. Overall, the results validate the effectiveness of the proposed approach for generating semantically rich TEI XML from historical vocational documents."
+                              ] },
+
+      { "degree": "Bachelor of Technology in Computer Science and Engineering", 
+        "school": "Rajeev Gandhi Memorial College of Engineering", 
+        "year": "2016– 2020", 
+        "location": "Nandyal, IN",
+        "Thesis": "Online College Fee Payment System", 
+        "ThesisDescription": [
+                              "Developed a secure web-based system enabling students to pay college fees online and track payment status.",
+                              "Implemented student authentication and integrated a payment gateway for safe and direct transactions.",
+                              "Built the application using HTML, CSS, PHP, and MySQL for dynamic data handling."
+                             ]
+          }
+    ],
+    "certificates": [
+      { "name": "Microsoft Certified Fabric Data Engineer Associate", "issuer": "Microsoft", "year": "2025", "url": "https://learn.microsoft.com/en-us/users/saivenkatasahithreddykadapaiahgari-6443/credentials/8eceff05eb864aac?ref=https%3A%2F%2Fwww.overleaf.com%2F"  },
+      { "name": "Data Engineer Associate", "issuer": "DataCamp", "year": "2025", "url": "https://www.datacamp.com/certificate/DEA0010967915396" },
+      { "name": "Creating Dashboards and Storytelling with Tableau ", "issuer": "Coursera", "year": "2023", "url": "https://www.coursera.org/account/accomplishments/certificate/PTHM9TBT94HU" }
+    ],
+    "languages": [
+      { "name": "English", "level": "Fluent(C1)" },
+      {"name": "Deutsch", "level": "Intermediate(B1)" },
+      { "name": "Telugu", "level": "Native" }
+    ]
+  }
