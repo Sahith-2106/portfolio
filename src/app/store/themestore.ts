@@ -5,7 +5,7 @@ export interface ThemeState {
 }
 
 const initialState: ThemeState = {
-  isDarkMode: false,
+  isDarkMode: true,
 };
 
 export const ThemeStore = signalStore(

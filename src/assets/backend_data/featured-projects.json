@@ -14,6 +14,13 @@
       "image": "assets/images/Kafka.png",
       "github": "https://github.com/Sahith-2106/Kafka-Project-Stock-Market-Data.git"
     },
+        {
+      "name": "Sales Analytics using SAP Datasphere & SAP Analytics Cloud (SAC)",
+      "description": "Built an end-to-end SAP Analytics Cloud solution by modeling data to track key metrics (like sales and prices), and designed an interactive dashboard featuring geo maps, monthly performance trends, and future AI forecasting ideas.",
+      "tech": ["SAP Datasphere", "SAP Analytics Cloud", "Python"],
+      "image": "assets/images/SAP.png",
+      "github": "https://github.com/Sahith-2106/sap-datasphere-sales-analytics-project.git"
+    },
     {
         "name": "COVID-19 Data Analysis Dashboard",
         "description": "Built an interactive COVID-19 analysis dashboard using Azure Data Studio (SQL) for data transformation and Tableau for visualization, with preprocessing in Excel.",

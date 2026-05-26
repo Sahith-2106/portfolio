@@ -22,7 +22,7 @@ export class GetInTouchComponent {
     { 
       icon: 'location_on', 
       label: 'Location', 
-      value: 'Frankfurt, Deutschland', // Replace with your actual location
+      value: 'Koblenz, Germany', // Replace with your actual location
        // Optional map link
     }
   ];
