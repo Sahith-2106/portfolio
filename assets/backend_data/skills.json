@@ -16,8 +16,7 @@
     { "name": "Amazon Redshift",   "category": "Databases & Warehouses" },
     { "name": "PostgreSQL",        "category": "Databases & Warehouses" },
     { "name": "MySQL",             "category": "Databases & Warehouses" },
-    { "name": "Oracle",            "category": "Databases & Warehouses" },
-    { "name": "MangoDB",           "category": "Databases & Warehouses" },
+    { "name": "Google BigQuery",   "category": "Databases & Warehouses" },
 
     { "name": "Microsoft Azure (Data Factory, ADLS, Synapse)",         "category": "Cloud Platforms" },
     { "name": "AWS (S3, Glue, Redshift, Lambda)",         "category": "Cloud Platforms" },
